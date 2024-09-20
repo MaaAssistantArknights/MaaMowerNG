@@ -1,0 +1,6 @@
+[submodule "ArknightsGameResource"]
+	path = ArknightsGameResource
+	url = https://github.com/yuanyan3060/ArknightsGameResource
+[submodule "ArknightsGameData"]
+	path = ArknightsGameData
+	url = https://github.com/Kengxxiao/ArknightsGameData.git

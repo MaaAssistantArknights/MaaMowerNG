@@ -1,0 +1,1 @@
+import{br as o,bs as e,bt as n,bu as r,k as c}from"./_plugin-vue_export-helper.js";import{a}from"./headers.js";import"./main.js";const s={};function _(f,u){const t=a;return e(),n(t,null,{default:r(()=>[c("404 Not Found")]),_:1})}const i=o(s,[["render",_]]);export{i as default};
