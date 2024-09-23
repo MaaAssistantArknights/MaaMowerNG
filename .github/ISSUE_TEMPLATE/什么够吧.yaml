@@ -1,5 +1,5 @@
 name: 你凭什么有 bug
-about: 谁让你有 bug 的
+description: 谁让你有 bug 的
 body:
   - type: checkboxes
     id: checks
