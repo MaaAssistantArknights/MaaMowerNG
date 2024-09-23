@@ -4,13 +4,7 @@ body:
   - type: checkboxes
     id: checks
     attributes:
+      label: 你有 bug 吗》
       options:
         - label: 我没有 bug
           required: true
-  - type: textarea
-    id: huh
-    attributes:
-      label: 你真有 bug？
-      description: 有 bug 也不许写
-    validations:
-      required: false
