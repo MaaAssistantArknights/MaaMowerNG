@@ -8,3 +8,5 @@ body:
       options:
         - label: 我没有 bug
           required: true
+        - label: 我真没有 bug
+          required: true
