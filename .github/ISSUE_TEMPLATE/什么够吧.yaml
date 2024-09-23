@@ -10,3 +10,10 @@ body:
           required: true
         - label: 我真没有 bug
           required: true
+  - type: textarea
+    id: describe
+    attributes:
+      label: 你真有 bug ？
+      description: 描述 bug 时请尽量不要描述 bug
+    validations:
+      required: true
